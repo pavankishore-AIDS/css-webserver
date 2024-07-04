@@ -1,5 +1,5 @@
 
-# anime DVD sales web server:
+# DVD sales webserver:
 ### Home coding:
 ```
 
